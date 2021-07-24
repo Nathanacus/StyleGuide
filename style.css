@@ -33,7 +33,7 @@ strong {
 }
 
 .col {
-  height: 400px;
-  width: 200px;
+  width: 300px;
+  margin: 0px 25px;
   display: inline-block;
 }
