@@ -16,11 +16,13 @@ strong {
   font-weight: 700;
 }
 
-main {
-  align-items: center;
+.title {
+  width: 80%;
+  margin: auto;
 }
 
 .box {
   border: 1px solid gray;
   width: 80%;
+  margin: 25px auto;
 }
