@@ -66,24 +66,30 @@ strong {
 
 .color-primary {
   background-color: #8b0000;
+  padding: 10px;
 }
 
 .color-secondary {
   background-color: #00008b;
+  padding: 10px;
 }
 
 .color-tertiary {
   background-color: #008b00;
+  padding: 10px;
 }
 
 .color-primary p {
   color: white;
+  margin: auto;
 }
 
 .color-secondary p {
   color: white;
+  margin: auto;
 }
 
 .color-tertiary p {
   color: white;
+  margin: auto;
 }
