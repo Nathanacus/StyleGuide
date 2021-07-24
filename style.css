@@ -1,15 +1,19 @@
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1 {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 400;
+  font-size: 18px;
 }
 
-p {
+h2 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+p, li {
   font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 12px;
 }
 
 strong {
@@ -26,4 +30,9 @@ strong {
   width: 80%;
   padding: 10px;
   margin: 25px auto;
+}
+
+.col-33 {
+  width: 33.3333%;
+  display: inline-block;
 }
