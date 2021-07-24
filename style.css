@@ -1,3 +1,5 @@
+/* Standard Text Elements */
+
 h1 {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 400;
@@ -38,6 +40,8 @@ strong {
   font-weight: 700;
 }
 
+/* Div Classes */
+
 .title {
   width: 80%;
   margin: auto;
@@ -58,4 +62,28 @@ strong {
   width: 250px;
   margin: 0px 10px;
   display: inline-block;
+}
+
+.color-primary {
+  background-color: #8b0000;
+}
+
+.color-secondary {
+  background-color: #00008b;
+}
+
+.color-tertiary {
+  background-color: #008b00;
+}
+
+.color-primary p {
+  color: white;
+}
+
+.color-secondary p {
+  color: white;
+}
+
+.color-tertiary p {
+  color: white;
 }
