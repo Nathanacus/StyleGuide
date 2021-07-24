@@ -1,17 +1,35 @@
 h1 {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 24px;
 }
 
 h2 {
   font-family: 'Cormorant Garamond', serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+h3 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+h3 .sans-serif {
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 16px;
 }
 
 p, li {
   font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+p .serif {
+  font-family: 'Cormorant Garamond', serif;
   font-weight: 400;
   font-size: 12px;
 }
@@ -33,7 +51,7 @@ strong {
 }
 
 .col {
-  width: 300px;
-  margin: 0px 25px;
+  width: 250px;
+  margin: 0px 10px;
   display: inline-block;
 }
