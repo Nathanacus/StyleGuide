@@ -16,7 +16,7 @@ h3 {
   font-size: 16px;
 }
 
-h3 .sans-serif {
+h3.sans-serif {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -28,7 +28,7 @@ p, li {
   font-size: 12px;
 }
 
-p .serif {
+p.serif {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 400;
   font-size: 12px;
@@ -48,6 +48,10 @@ strong {
   width: 80%;
   padding: 0px 10px;
   margin: 25px auto;
+}
+
+.row {
+  width: 100%;
 }
 
 .col {
