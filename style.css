@@ -1,0 +1,26 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 400;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+strong {
+  font-weight: 700;
+}
+
+main {
+  align-items: center;
+}
+
+.box {
+  border: 1px solid gray;
+  width: 80%;
+}
