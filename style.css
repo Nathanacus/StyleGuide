@@ -3,37 +3,33 @@
 h1 {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 400;
-  font-size: 24px;
+  font-size: 28px;
 }
 
 h2 {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 24px;
 }
 
 h3 {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 h3.sans-serif {
   font-family: 'Montserrat', sans-serif;
-  font-weight: 400;
-  font-size: 16px;
 }
 
 p, li {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 p.serif {
   font-family: 'Cormorant Garamond', serif;
-  font-weight: 400;
-  font-size: 12px;
 }
 
 strong {
