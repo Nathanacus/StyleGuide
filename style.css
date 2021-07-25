@@ -1,7 +1,8 @@
-/* General Styling */
+/* Default Styling */
 
 html {
   background-color: #F0EAD6;
+  font-size: 16px;
 }
 
 /* Standard Text Elements */
@@ -31,7 +32,6 @@ h3.sans-serif {
 p, li {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
-  font-size: 16px;
 }
 
 p.serif {
