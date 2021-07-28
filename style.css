@@ -61,12 +61,12 @@ nav a {
   color: black;
   text-align: center;
   text-decoration: none;
-  border-radius: 5px;
   padding: 5px 15px;
 }
 
 nav a:hover {
   background-color: lightslategray;
+  border-radius: 5px;
 }
 
 nav a:visited {
