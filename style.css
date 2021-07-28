@@ -15,12 +15,12 @@ header {
 }
 
 header h1 {
-  float: right;
+  float: left;
   display: inline;
 }
 
 nav {
-  float: left;
+  float: right;
   display: inline;
 }
 
