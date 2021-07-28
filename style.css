@@ -2,7 +2,15 @@
 
 html {
   background-color: #F0EAD6;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
   font-size: 16px;
+}
+
+/* Section Styling */
+
+footer {
+  text-align: center;
 }
 
 /* Standard Text Elements */
@@ -27,11 +35,6 @@ h3 {
 
 h3.sans-serif {
   font-family: 'Montserrat', sans-serif;
-}
-
-p, li {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 400;
 }
 
 p.serif {
