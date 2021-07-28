@@ -16,8 +16,14 @@ header {
   flex-wrap: wrap;
 }
 
+header h1 {
+  display: inline-flex;
+  justify-content: flex-start;
+}
+
 nav {
-  float: right;
+  display: inline-flex;
+  justify-content: flex-end;
 }
 
 footer {
