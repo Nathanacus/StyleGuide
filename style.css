@@ -14,9 +14,12 @@ header {
   margin: auto;
 }
 
-nav {
+header h1 {
   display: inline-block;
-  float: right;
+}
+
+nav {
+  float: left;
 }
 
 footer {
