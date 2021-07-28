@@ -14,14 +14,6 @@ header {
   margin: auto;
 }
 
-header h1 {
-  float: left;
-}
-
-nav {
-  float: right;
-}
-
 footer {
   text-align: center;
 }
