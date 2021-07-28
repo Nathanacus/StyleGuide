@@ -12,21 +12,13 @@ html {
 header {
   width: 80%;
   margin: auto;
-  display: flex;
+  display: inline-flex;
   flex-wrap: wrap;
   align-items: center;
 }
 
 header h1 {
-  float: left;
-  display: inline-flex;
-  justify-content: flex-start;
-}
-
-nav {
-  float: right;
-  display: inline-flex;
-  justify-content: flex-end;
+  flex-grow: 1;
 }
 
 footer {
