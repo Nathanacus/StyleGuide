@@ -58,12 +58,14 @@ strong {
 
 .row {
   width: 100%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .col {
   width: 300px;
   margin: 10px;
-  display: inline-block;
 }
 
 .color-primary {
