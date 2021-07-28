@@ -58,15 +58,15 @@ header h1 {
 }
 
 nav a {
+  color: black;
   text-align: center;
   text-decoration: none;
   padding: 5px 15px;
 }
 
 nav a:hover {
-  background-color: gray;
+  background-color: lightslategray;
 }
-
 
 /* Main Body Styling */
 
