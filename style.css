@@ -59,12 +59,13 @@ strong {
 .row {
   width: 100%;
   display: inline-flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
 }
 
 .col {
-  width: 300px;
+  min-width: 300px;
   margin: 10px;
 }
 
