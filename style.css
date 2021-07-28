@@ -9,6 +9,15 @@ html {
 
 /* Section Styling */
 
+header {
+  width: 80%;
+  margin: auto;
+}
+
+nav {
+  display: inline-block;
+}
+
 footer {
   text-align: center;
 }
@@ -46,11 +55,6 @@ strong {
 }
 
 /* Div Classes */
-
-.title {
-  width: 80%;
-  margin: auto;
-}
 
 .box {
   border: 1px solid gray;
