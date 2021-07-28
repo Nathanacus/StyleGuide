@@ -7,24 +7,6 @@ html {
   font-size: 16px;
 }
 
-/* Section Styling */
-
-header {
-  width: 80%;
-  margin: auto;
-  display: inline-flex;
-  flex-wrap: wrap;
-  align-items: center;
-}
-
-header h1 {
-  flex-grow: 1;
-}
-
-footer {
-  text-align: center;
-}
-
 /* Standard Text Elements */
 
 h1 {
@@ -57,7 +39,29 @@ strong {
   font-weight: 700;
 }
 
-/* Div Classes */
+/* Navbar Styling */
+
+header {
+  width: 80%;
+  margin: auto;
+}
+
+.topbar {
+  width: 100%;
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+header h1 {
+  flex-grow: 1;
+}
+
+footer {
+  text-align: center;
+}
+
+/* Main Body Containers */
 
 .box {
   border: 1px solid gray;
