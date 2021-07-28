@@ -16,12 +16,10 @@ header {
 
 header h1 {
   float: left;
-  display: inline;
 }
 
 nav {
   float: right;
-  display: inline;
 }
 
 footer {
