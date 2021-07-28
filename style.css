@@ -12,6 +12,12 @@ html {
 header {
   width: 80%;
   margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+nav {
+  float: right;
 }
 
 footer {
