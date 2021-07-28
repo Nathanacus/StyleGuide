@@ -57,11 +57,18 @@ header h1 {
   flex-grow: 1;
 }
 
-footer {
+nav a {
   text-align: center;
+  text-decoration: none;
+  padding: 5px 15px;
 }
 
-/* Main Body Containers */
+nav a:hover {
+  background-color: gray;
+}
+
+
+/* Main Body Styling */
 
 .box {
   border: 1px solid gray;
@@ -111,4 +118,10 @@ footer {
 .color-tertiary p {
   color: white;
   margin: auto;
+}
+
+/* Footer Styling */
+
+footer {
+  text-align: center;
 }
