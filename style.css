@@ -15,11 +15,13 @@ header {
 }
 
 header h1 {
-  display: inline-block;
+  float: right;
+  display: inline;
 }
 
 nav {
   float: left;
+  display: inline;
 }
 
 footer {
