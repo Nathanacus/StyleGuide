@@ -68,6 +68,10 @@ nav a:hover {
   background-color: lightslategray;
 }
 
+nav a:visited {
+  color: black;
+}
+
 /* Main Body Styling */
 
 .box {
